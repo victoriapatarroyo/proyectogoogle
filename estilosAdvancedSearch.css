@@ -1,0 +1,21 @@
+.inputAzul{
+    border-color: blue;
+}
+
+#contenido{
+    width: 740px;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-gap: 5px;
+}
+
+#botonBusquedaAvanzada{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;    
+}
